@@ -1,0 +1,7 @@
+dev:
+  build: .
+  ports:
+    - "10022:22"
+    - "19393:9393"
+  volumes:
+    - ./app:/home/dev/app

@@ -1,0 +1,44 @@
+bundler: command not found: shotgun
+Install missing gem executables with `bundle install`
+bundler: command not found: shotgun
+Install missing gem executables with `bundle install`
+bundler: command not found: shotgun
+Install missing gem executables with `bundle install`
+bundler: command not found: shotgun
+Install missing gem executables with `bundle install`
+Fetching gem metadata from https://rubygems.org/...........
+Fetching version metadata from https://rubygems.org/..
+Resolving dependencies...
+Installing rack 1.6.0
+Installing rack-protection 1.5.3
+Installing shotgun 0.9.1
+Installing tilt 2.0.1
+Installing sinatra 1.4.6
+Using bundler 1.9.1
+Bundle complete! 2 Gemfile dependencies, 6 gems now installed.
+Gems in the group production were not installed.
+Bundled gems are installed into ./vendor/bundle.
+== Shotgun/WEBrick on http://0.0.0.0:9393/
+Fetching gem metadata from https://rubygems.org/...........
+Fetching version metadata from https://rubygems.org/..
+Resolving dependencies...
+Installing rack 1.6.0
+Installing rack-protection 1.5.3
+Installing shotgun 0.9.1
+Installing tilt 2.0.1
+Installing sinatra 1.4.6
+Using bundler 1.9.1
+Bundle complete! 2 Gemfile dependencies, 6 gems now installed.
+Gems in the group production were not installed.
+Bundled gems are installed into ./vendor/bundle.
+== Shotgun/WEBrick on http://0.0.0.0:9393/
+Using rack 1.6.0
+Using rack-protection 1.5.3
+Using shotgun 0.9.1
+Using tilt 2.0.1
+Using sinatra 1.4.6
+Using bundler 1.9.1
+Bundle complete! 2 Gemfile dependencies, 6 gems now installed.
+Gems in the group production were not installed.
+Bundled gems are installed into ./vendor/bundle.
+== Shotgun/WEBrick on http://0.0.0.0:9393/
