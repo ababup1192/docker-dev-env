@@ -6,10 +6,10 @@ https://www.virtualbox.org/wiki/Downloads
 
 ## Install Docker
 
-  // OSX
-  brew install docker
-  // Linux
-  Please install docker by your package manager 
+    // OSX
+    brew install docker
+    // Linux
+    Please install docker by your package manager 
 
 ## Install Docker-machine(OSX, Windows)
 https://github.com/docker/machine/releases
