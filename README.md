@@ -26,14 +26,14 @@ https://github.com/docker/machine/releases
 
 ## Access develop environment
 
-  ssh -p 10022 dev@$(docker-machine ip)
+    ssh -p 10022 dev@$(docker-machine ip)
   
 ## Access Sinatra App
 
-  http://$(docker-machine ip):19393/
+    curl or Browser access => http://$(docker-machine ip):19393/
     
 ## Stop and remove docker machine
   
-  docker-machine stop dev
-  docker-machine rm dev
+    docker-machine stop dev
+    docker-machine rm dev
 
